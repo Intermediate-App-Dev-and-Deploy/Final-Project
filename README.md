@@ -1,6 +1,14 @@
 # Final-Project
 OPTION of "Integrated Hosted Website and Computer App" or Sideloaded Android Project
 
+# Final Project
+
+Integrated Hosted Website-Computer App
+
+OR 
+
+Related Project, Android Sideloaded (must see Mr. Mercer prior to completing)
+
 ---
 
 Expectation: Integrated Promotional Website and Computer App
